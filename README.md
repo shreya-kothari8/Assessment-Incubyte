@@ -1,13 +1,12 @@
 # Assessment-Incubyte
 Incubyte TDD Assessment
 
-## Intalltion
-
+## Installtion
 
 
 ```bash
 # Prerequisite: Nodejs
-# Clone the project
+# Clone the project and Run
 $ npm install
 
 # Run the project
